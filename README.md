@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <a href= https://github.com/furkanulgen?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <a href= https://github.com/furkanulgen?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/furkanulgen?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png'> </a>
+<a href= https://github.com/furkanulgen?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png'> </a>
+ <a href= https://github.com/furkanulgen?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://servicenav.coservit.com/wp-content/uploads/2022/05/212.jpg'> </a>
 
 <br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
